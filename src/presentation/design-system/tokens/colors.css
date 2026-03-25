@@ -1,0 +1,18 @@
+:root {
+  /* Surface & Backgrounds */
+  --bg-base: #0a0a0a;         
+  --bg-surface: #171717;      
+  --bg-surface-elevated: #262626; 
+  
+  /* Borders */
+  --border-subtle: rgba(255, 255, 255, 0.1);
+  --border-focus: rgba(255, 255, 255, 0.5);
+  
+  /* Brand/Status */
+  --color-primary: #1447e6;
+  --color-success: #00bc7d;
+  
+  /* Text */
+  --text-main: #fafafa;       
+  --text-muted: #a1a1a1;
+}

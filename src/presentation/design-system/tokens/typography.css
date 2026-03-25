@@ -1,0 +1,11 @@
+:root {
+  /* Typographical Fluidity */
+  --font-xs: clamp(0.75rem, 0.8vw, 0.85rem);
+  --font-base: clamp(1rem, 1.2vw, 1.125rem);
+  --font-display: clamp(1.5rem, 3vw, 2rem);
+
+  /* Spacing */
+  --spacing-sm: clamp(8px, 1vw, 12px);
+  --spacing-md: clamp(16px, 2vw, 24px);
+  --spacing-lg: clamp(24px, 4vw, 32px);
+}
